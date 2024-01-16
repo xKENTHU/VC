@@ -39,7 +39,7 @@ print(color.BOLD + color.UNDERLINE + "VOICECORD" + color.END)
 print("""
 Attempting to kill discord
 Logging in...
-Created by DraKen""")
+""")
 
 
 @Verse1.event
